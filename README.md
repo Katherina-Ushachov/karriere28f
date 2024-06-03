@@ -9,7 +9,7 @@ So I decided to use every morsel of knowledge that I gain to make this website b
 * My readers get a website full of little whimsical tidbits and eastereggs they can discover.
 * And last but not least, if they really can't find all of the eastereggs on their own, they can take a look at the source code.
 
-#Will new content be added regularly?
+# Will new content be added regularly?
 
 Well, depends on how many new things I learn and how they can be integrated. As for now, e.g. most of the dropdown menu URLs lead nowhere on purpose and some of the sub-pages don't have much going on. Yet. Just follow this repository to keep up to date.
 
