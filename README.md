@@ -13,8 +13,9 @@ So I decided to use every morsel of knowledge that I gain to make this website b
 
 Well, depends on how many new things I learn and how they can be integrated. As for now, e.g. most of the dropdown menu URLs lead nowhere on purpose and some of the sub-pages don't have much going on. Yet. Just follow this repository to keep up to date.
 
-#I'm more into other genres, did you make websites for some of your other projects?
+# I'm more into other genres, did you make websites for some of your other projects?
 
-Not yet. Doesn't mean I'm not planning on installing some 'portals' to showcase some skills that might not be applicable to the mock career page. You'll see when they come up.
+I made a mock-up social network for vampires and a minigame for another science-fiction project, but those are in private repositories for the time being, given that the vampire page is pretty unfinished and the other features a book that is set to be released 2025 or 2026.
+But you can follow me so you see new projects as they emerge.
 
 Katherina
